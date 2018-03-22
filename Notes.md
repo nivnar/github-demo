@@ -1,7 +1,8 @@
 ﻿
  
 
-#Headers
+# Headers
+
 # H1
 ## H2
 ### H3
@@ -9,7 +10,8 @@
 ##### H5
 ###### H6
 ---------------
-#Emphasis
+# Emphasis
+
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
@@ -18,7 +20,7 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-#Lists
+# Lists
 
 1. First ordered list item
 2. Another item
@@ -37,7 +39,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 - Or minuses
 + Or pluses
 
-#Links
+# Links
 
 [I'm an inline-style link](https://www.google.com)
 
@@ -72,7 +74,7 @@ Reference-style:
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
-#Tables
+# Tables
 
 Colons can be used to align columns.
 
