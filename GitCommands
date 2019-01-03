@@ -1,0 +1,2 @@
+git rebase [branch] - apply any commits of current branch ahead of specified one
+git log - To view commit history
