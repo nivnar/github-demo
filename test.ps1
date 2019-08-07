@@ -1,1 +1,1 @@
-Test for changing primary email
+Test changing primary email
