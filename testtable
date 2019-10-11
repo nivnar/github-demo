@@ -1,0 +1,7 @@
+|  | Azure Blob Storage | Azure SQL Data Lake Gen1 | Azure SQL Data Lake Gen2 | Azure SQL Database | Azure SQL Data Warehouse 
+|:--- |:--- |:--- |:--- |:--- |:--- |
+| <b>Azure Blob storage |✓ ||✓|
+| <b>Azure Data Lake Storage Gen1 |✓ | |✓|
+| <b>Azure Data Lake Storage Gen2 |✓ | |✓|
+| <b>Azure SQL Database |✓ | |✓|✓|✓|
+| <b>Azure SQL Data Warehouse |✓ | |✓|✓|✓|
