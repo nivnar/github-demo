@@ -1,4 +1,4 @@
-set-location C:\Users\ninarva\Documents\GitRepos\docs-help-pr
+set-location <directory path of repo on your local machine>
 Git pull checkout master
 Git pull origin master
 Git checkout contributor-training
