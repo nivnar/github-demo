@@ -1,2 +1,2 @@
 # github-demo
-Simple demo for my training
+Repo for my training
